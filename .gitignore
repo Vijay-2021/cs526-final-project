@@ -22,3 +22,5 @@ timing/
 frontends/halide/llvm-build/
 frontends/halide/llvm-project/
 similarityenv/
+frontends/wabt/build
+frontends/wabt/bin
